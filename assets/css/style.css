@@ -1,0 +1,23 @@
+.display-4 {
+    text-align: center;
+
+}
+
+.container {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.jumbotron  {
+    background-color: purple;
+}
+
+.btn {
+    border-radius: 8px;
+    background-color: #555555;
+    color: white;
+}
+
+.main-content {
+    margin: 20px;
+}
